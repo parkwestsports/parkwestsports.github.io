@@ -9,7 +9,7 @@ body{
 	margin:0%;
 	height:100%;
 	width:100%;
-	background-image: url("ITGS IA/itgs website background transparent white.png");
+	background-image: url("itgs website background transparent white.png");
 	background-color:beige;
 }
 
@@ -21,6 +21,7 @@ header {
 .logo {
     width: 131px;
     height: 128px;
+	margin: 0 45%
 }
 
 nav {
